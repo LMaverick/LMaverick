@@ -26,6 +26,13 @@
   <a href="https://www.instagram.com/organizacao_animinosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
    ![Snake animation](https://github.com/LMaverick/LMaverick/blob/output/github-contribution-grid-snake.svg) 
- 
+ <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LMaverick/count.svg" />
+ </p>
+
+</p>
  
 </div>

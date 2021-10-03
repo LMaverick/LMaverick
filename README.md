@@ -1,4 +1,4 @@
-## Seja Bem-vindo! Eu sou a L.Maverick, peço que me ajude se me seguindo no aqui no GitHub! 
+## Seja Bem-vindo! Eu sou L.Maverick, Abaixo você pode ver informações do meu perfil, se puder me ajude seguindo meu perfil! 
 <div align="center">
   <a href="https://github.com/LMaverick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMaverick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
